@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TMDB Movies</string>
+    <string name="dev">By Shivesh Navin</string>
+
+    <string name="movie_schedule">http://www.fandango.com/search?q=%s</string>
+    <string name="activity_image_trans">poster</string>
+    <string name="activity_splash_trans">splash</string>
+
+</resources>
